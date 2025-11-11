@@ -1,0 +1,12 @@
+Pedido 1 (Paella) preparado por cocinero 1
+Pedido 3 (Gazpacho) preparado por cocinero 3
+Pedido 2 (Tortilla de patatas) preparado por cocinero 2
+Pedido 4 (Croquetas) preparado por cocinero 1
+Pedido 5 (Pulpo a la gallega) preparado por cocinero 3
+Pedido 6 (Fabada asturiana) preparado por cocinero 2
+Pedido 1 (Paella) preparado por cocinero 1
+Pedido 3 (Gazpacho) preparado por cocinero 3
+Pedido 2 (Tortilla de patatas) preparado por cocinero 2
+Pedido 4 (Croquetas) preparado por cocinero 1
+Pedido 5 (Pulpo a la gallega) preparado por cocinero 3
+Pedido 6 (Fabada asturiana) preparado por cocinero 2
